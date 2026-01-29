@@ -9,7 +9,7 @@
 ### 🔥 My Stats & Activity
 
 <!-- 1. GitHub Stats Card -->
-[![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavan-04&show_icons=true&theme=dark&rank_icon=title)](https://github.com/Raghavan-04)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavan-04)](https://github.com/Raghavan-04)
 
 <!-- 2. Top Languages Card (Set to compact layout to save space) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavan-04&layout=compact&theme=dark&hide_title=true)](https://github.com/Raghavan-04)
