@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 My Stats & Activity
-
+![Stats SVG](https://stats-svg.vercel.app/api/github-status?username=Raghavan-04)
 <!-- 1. GitHub Stats Card -->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavan-04)](https://github.com/Raghavan-04)
 
