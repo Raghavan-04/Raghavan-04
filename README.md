@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Raghav!
 
-### An Engineer ig?!
+### An Engineer :)
 
 ---
 
