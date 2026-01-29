@@ -8,14 +8,3 @@
 
 ### 🔥 My Stats & Activity
 ![Stats SVG](https://stats-svg.vercel.app/api/github-status?username=Raghavan-04)
-<!-- 1. GitHub Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavan-04)](https://github.com/Raghavan-04)
-
-<!-- 2. Top Languages Card (Set to compact layout to save space) -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavan-04&layout=compact&theme=dark&hide_title=true)](https://github.com/Raghavan-04)
-
-<!-- 3. GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raghavan-04&theme=dark)](https://github.com/Raghavan-04)
-
----
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavan-04&v=123)](https://github.com/Raghavan-04)
