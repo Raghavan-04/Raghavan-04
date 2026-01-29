@@ -18,3 +18,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raghavan-04&theme=dark)](https://github.com/Raghavan-04)
 
 ---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raghavan-04&v=123)](https://github.com/Raghavan-04)
