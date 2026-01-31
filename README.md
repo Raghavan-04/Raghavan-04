@@ -8,8 +8,8 @@
 ---
 # Active_Projects:
 
-https://github.com/Raghavan-04/Systolic-Tensor-Core
-https://github.com/Raghavan-04/DeepLearning_based_ChannelEstimation_For-OFDM
+-System verilog: https://github.com/Raghavan-04/Systolic-Tensor-Core
+-5G Wireless communication: https://github.com/Raghavan-04/DeepLearning_based_ChannelEstimation_For-OFDM
 
 ---
 ### 🔥 My Stats & Activity
