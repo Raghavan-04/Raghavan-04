@@ -1,19 +1,28 @@
 <div align="center">
 
-# 👋 Hi there, I'm Raghav!
- How you doing?
- suuuuu
-### An Engineer :)
----
-##Systems Engineer with specialization in Hardware Architectures and Quantitative 
----
-# Active_Projects:
+# 👋 Hi there, I'm Raghav
 
--Custom SOC: https://github.com/Raghavan-04/Custom_Audio_SOC
-
--5G Wireless communication: https://github.com/Raghavan-04/DeepLearning_based_ChannelEstimation_For-OFDM
-
+### Systems Engineer  
+**Hardware Architectures | Quantitative Systems | Communication Engineering**
 
 ---
-### 🔥 My Stats & Activity
+
+</div>
+
+## 🚀 Active Projects
+
+### 🖥️ Custom SoC  
+🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
+
+### 📡 5G Wireless Communication  
+🔗 https://github.com/Raghavan-04/DeepLearning_based_ChannelEstimation_For-OFDM  
+
+---
+
+## 🔥 GitHub Stats & Activity
+
+<div align="center">
+
 ![Stats SVG](https://stats-svg.vercel.app/api/github-status?username=Raghavan-04)
+
+</div>
