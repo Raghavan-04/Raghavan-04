@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Raghav
 
 ### Systems Engineer  
-**Hardware Architectures | Quantitative Systems | Communication Engineering**
+**Hardware Architectures | Quantitative Systems | Software Engineering**
 
 ---
 
