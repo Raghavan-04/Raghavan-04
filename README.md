@@ -4,7 +4,7 @@
  How you doing?
  suuuuu
 ### An Engineer :)
-**Systems Engineer with specialization in Hardware Architectures and Quantitative **
+###Systems Engineer with specialization in Hardware Architectures and Quantitative 
 ---
 # Active_Projects:
 
