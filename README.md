@@ -27,8 +27,6 @@
 ---
 ## 🔥 GitHub Stats & Activity
 
-<div align="center">
 
 ![Stats SVG](https://stats-svg.vercel.app/api/github-status?username=Raghavan-04)
 
-</div>
