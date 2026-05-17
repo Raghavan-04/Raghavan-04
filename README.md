@@ -14,9 +14,6 @@
 ### 🖥️ Custom SoC  
 🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
 
-### 📡 OFDM Channel estimation
-🔗 https://github.com/Raghavan-04/DeepLearning_based_ChannelEstimation_For-OFDM  
-
 ---
 </div>
 
