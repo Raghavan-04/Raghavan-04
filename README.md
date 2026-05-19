@@ -9,7 +9,7 @@
 
 </div>
 
-## 🚀 Active Projects
+##  Active Projects
 
 ### 🖥️ Custom SoC  
 🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
