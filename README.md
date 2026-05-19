@@ -11,7 +11,7 @@
 
 ##  Active Projects
 
-### 🖥️ Custom SoC  
+###  Custom SoC  
 🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
 
 ---
