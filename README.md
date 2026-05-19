@@ -22,7 +22,7 @@
 🔗 https://gitroll.io/profile/ux6xlPz2j34NorYAdef641TEA9ru1
 
 ---
-## 🔥 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 
 ![Stats SVG](https://stats-svg.vercel.app/api/github-status?username=Raghavan-04)
