@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Raghavan
+#  Hi there, I'm Raghavan
 
 ### Systems Engineer  
 **Hardware Architectures | Quantitative Systems | Software Engineering**
