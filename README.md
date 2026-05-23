@@ -14,6 +14,9 @@
 ###  Custom SoC  
 🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
 
+###  Hardware Accelerator
+🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
+
 ---
 </div>
 
