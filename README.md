@@ -14,7 +14,7 @@
 ###  Custom SoC  
 🔗 https://github.com/Raghavan-04/Custom_Audio_SOC  
 
-###  Hardware Accelerator
+###  4-Lane Parallel SIMD Vector Core Processor
 🔗 https://github.com/Raghavan-04/Hardware_Accelerator
 
 ---
