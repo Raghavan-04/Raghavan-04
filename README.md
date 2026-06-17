@@ -30,3 +30,4 @@
 
 ![Stats SVG](https://stats-svg.vercel.app/api/github-status?username=Raghavan-04)
 
+[![Latchup Badge](https://latchup.app/badge/user/6511f25d-a9c1-4f62-9360-1c46c55144c0.svg)](https://latchup.app/user/6511f25d-a9c1-4f62-9360-1c46c55144c0)
