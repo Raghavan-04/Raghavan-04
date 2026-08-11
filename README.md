@@ -15,6 +15,8 @@ ASIC Design Engineer | Computer Architecture | VLSI & Mixed-Signal Systems
 
 ###  4-Lane Parallel SIMD Vector Core Processor
 🔗 https://github.com/Raghavan-04/Hardware_Accelerator
+# 4-Lane SIMD Vector Processor Core
+![CI Status](https://github.com/Raghavan-04/Parallel_SIMD_Vector_Core/actions/workflows/ci.yml/badge.svg)
 
 ---
 </div>
