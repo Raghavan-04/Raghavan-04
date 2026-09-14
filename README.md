@@ -18,6 +18,14 @@ ASIC Design Engineer | Computer Architecture | VLSI & Mixed-Signal Systems
 
 ![CI Status](https://github.com/Raghavan-04/Parallel_SIMD_Vector_Core/actions/workflows/ci.yml/badge.svg)
 
+## 🚀 Featured 
+
+### [RTL Studio](https://github.com/Raghavan-04/rtl-studio) · [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-00C853?style=flat-square&logo=render)](https://rtl-studio.onrender.com)
+> **Interactive Web-Based SystemVerilog Schematic Visualizer & EDA Workbench**
+- Synthesizes IEEE 1364/1800 SystemVerilog into formal gate netlists via **Yosys** and FastAPI.
+- Implements semantic Level of Detail (LOD) zooming, transitioning from macro blocks to gate-level primitives.
+- Uses **ELK (Eclipse Layout Kernel)** for layered topological placement, greedy feedback cycle-breaking, and Manhattan channel routing.
+- Real-time silicon utilization telemetry HUD (Registers, MUXes, ALUs, Comparators).
 ---
 </div>
 
