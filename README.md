@@ -18,7 +18,7 @@ ASIC Design Engineer | Computer Architecture | VLSI & Mixed-Signal Systems
 
 ![CI Status](https://github.com/Raghavan-04/Parallel_SIMD_Vector_Core/actions/workflows/ci.yml/badge.svg)
 
-## 🚀 Featured 
+##  Featured EDA Tool
 
 ### [RTL Studio](https://github.com/Raghavan-04/rtl-studio) · [![Live Demo](https://img.shields.io/badge/Live_Demo-Online-00C853?style=flat-square&logo=render)](https://rtl-studio.onrender.com)
 > **Interactive Web-Based SystemVerilog Schematic Visualizer & EDA Workbench**
