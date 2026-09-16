@@ -20,7 +20,7 @@ ASIC Design Engineer | Computer Architecture | VLSI & Mixed-Signal Systems
 
 ##  Featured EDA Tool
 
-## [RTL Studio](https://rtl-studio.onrender.com)
+### [RTL Studio](https://rtl-studio.onrender.com)
 > **Interactive Web-Based SystemVerilog Schematic Visualizer & EDA Workbench**
 - Synthesizes IEEE 1364/1800 SystemVerilog into formal gate netlists via **Yosys** and FastAPI.
 - Implements semantic Level of Detail (LOD) zooming, transitioning from macro blocks to gate-level primitives.
