@@ -21,11 +21,13 @@ ASIC Design Engineer | Computer Architecture | VLSI & Mixed-Signal Systems
 ##  Featured EDA Tool
 
 ### [RTL Bench](https://rtlbench.com/)
-> **Interactive Web-Based SystemVerilog Schematic Visualizer & EDA Workbench**
-- Synthesizes IEEE 1364/1800 SystemVerilog into formal gate netlists via **Yosys** and FastAPI.
-- Implements semantic Level of Detail (LOD) zooming, transitioning from macro blocks to gate-level primitives.
-- Uses **ELK (Eclipse Layout Kernel)** for layered topological placement, greedy feedback cycle-breaking, and Manhattan channel routing.
-- Real-time silicon utilization telemetry HUD (Registers, MUXes, ALUs, Comparators).
+> **Browser-Based EDA Workbench: SystemVerilog & VHDL to Schematic, Simulation, Timing & FPGA**
+* **End-to-End Synthesis:** Compiles SystemVerilog (IEEE 1364/1800) and VHDL into formal gate netlists via Yosys and GHDL.
+* **Dual-Engine Simulation:** Auto-routes small designs to Icarus Verilog and large designs to Verilator for C++-speed simulation, complete with a built-in VCD waveform viewer and A/B cursors.
+* **Real PDK Timing (STA):** Performs structural timing analysis against open-source Silicon PDKs (SkyWater 130nm, GF180, IHP SG13G2) with critical-path highlighting and WNS/TNS calculations.
+* **Structural CDC & RDC Analysis:** Automatically detects Clock Domain and Reset Domain crossing hazards, verifying multi-stage synchronizer chains.
+* **FPGA Hardware Deployment:** Full Yosys + nextpnr flow for Tang Nano and iCE40 boards, featuring standard SDC multi-clock constraints, WebSerial flashing, and instant Project ZIP export (.bin, .cst, .sdc).
+* **Interactive Visualization:** Semantic Level-of-Detail (LOD) schematic rendering using ELK for topological placement, with real-time code-to-schematic-to-waveform cross-probing.
 ---
 </div>
 
